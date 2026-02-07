@@ -7,7 +7,7 @@ NLP project analyzing Twitter sentiment using machine learning models and text p
 
 This project was developed as part of the **Natural Language Processing (NLP)** course at the University of Jordan.
 
----
+
 
 ## Objectives
 
@@ -16,7 +16,7 @@ This project was developed as part of the **Natural Language Processing (NLP)** 
 *Compare model performance
 *Evaluate results using standard metrics
 
----
+
 
 ## Models Used
 
@@ -24,14 +24,14 @@ This project was developed as part of the **Natural Language Processing (NLP)** 
 * LSTM 
 * RoBERTa
 
----
+
 
 ## Dataset
 
 The dataset used in this project is publicly available on Kaggle:
 [https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data?select=twitter_validation.csv]
 
----
+
 
 ## Technologies & Tools
 
