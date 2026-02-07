@@ -3,12 +3,6 @@ NLP project analyzing Twitter sentiment using machine learning models and text p
 
 
 
-
-
-This project was developed as part of the **Natural Language Processing (NLP)** course at the University of Jordan.
-
-
-
 ## Objectives
 
 * Preprocess and clean Twitter text data
