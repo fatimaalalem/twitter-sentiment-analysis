@@ -3,7 +3,7 @@ NLP project analyzing Twitter sentiment using machine learning models and text p
 
 
 
-## Course Information
+
 
 This project was developed as part of the **Natural Language Processing (NLP)** course at the University of Jordan.
 
