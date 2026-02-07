@@ -13,8 +13,8 @@ This project was developed as part of the **Natural Language Processing (NLP)** 
 
 * Preprocess and clean Twitter text data
 * Apply sentiment classification techniques
-*Compare model performance
-*Evaluate results using standard metrics
+* Compare model performance
+* Evaluate results using standard metrics
 
 
 
