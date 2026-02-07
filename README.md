@@ -12,7 +12,7 @@ This project was developed as part of the **Natural Language Processing (NLP)** 
 ## Objectives
 
 * Preprocess and clean Twitter text data
-* Apply sentiment classification techniques
+* Apply multiple sentiment classification models
 * Compare model performance
 * Evaluate results using standard metrics
 
@@ -20,9 +20,17 @@ This project was developed as part of the **Natural Language Processing (NLP)** 
 
 ## Models Used
 
-* SVM
-* LSTM 
-* RoBERTa
+This project implements and compares three sentiment classification approaches:
+
+* **Support Vector Machine (SVM)**
+  Traditional machine learning model trained on TF-IDF text features.
+
+* **Bidirectional LSTM (BiLSTM)**
+  Deep learning sequential model using embedding and bidirectional recurrent layers.
+
+* **RoBERTa-base**
+  Transformer-based model fine-tuned using Hugging Face Transformers for contextual text understanding.
+
 
 
 
@@ -39,6 +47,7 @@ The dataset used in this project is publicly available on Kaggle:
 * Pandas & NumPy
 * Scikit-learn
 * TensorFlow / Keras
+* Hugging Face Transformers
 * Matplotlib & Seaborn
 
 
