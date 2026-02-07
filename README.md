@@ -31,7 +31,7 @@ This project implements and compares three sentiment classification approaches:
 ## Dataset
 
 The dataset used in this project is publicly available on Kaggle:
-[https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data?select=twitter_validation.csv]
+https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data?select=twitter_validation.csv
 
 
 
